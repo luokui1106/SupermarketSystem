@@ -1,0 +1,14 @@
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\bin\Debug\SupermarketSystem.exe.config
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\bin\Debug\SupermarketSystem.exe
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\bin\Debug\SupermarketSystem.pdb
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.csprojResolveAssemblyReference.cache
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.FrmLogin.resources
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.Properties.Resources.resources
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.csproj.GenerateResource.Cache
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.exe
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.pdb
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.FrmAdmin.resources
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.FrmUpdatePwd.resources
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.FrmSupermarketList.resources
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.FrmInsert.resources
+E:\S1 阶段\C#开发数据库应用系统\操作练习\超市管理系统\Windows窗体\SupermarketSystem\SupermarketSystem\obj\Debug\SupermarketSystem.FrmGuanYu.resources
